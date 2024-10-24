@@ -35,3 +35,12 @@
 .intro{
     color: black;
 }
+
+/*Experience*/
+.container{
+    width: 50rem;
+    margin: auto;
+}
+.card1 {
+    text-align: center;
+}
