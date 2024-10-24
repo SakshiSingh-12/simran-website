@@ -21,3 +21,8 @@
     --bs-card-title-spacer-y: 1.5rem;
     
 }
+
+.col-md-8{
+    background-color: rgb(68, 89, 165);
+    
+}
