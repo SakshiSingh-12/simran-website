@@ -11,3 +11,13 @@
 .navname{
     color: rgb(5, 5, 63);
 }
+
+.card-body{
+    text-align: center;
+    text-wrap: wrap;
+    padding: 20rem 20rem;
+    --bs-card-spacer-y: 5rem;
+    --bs-card-spacer-x: 7rem;
+    --bs-card-title-spacer-y: 1.5rem;
+    
+}
